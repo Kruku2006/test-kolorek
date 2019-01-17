@@ -4,7 +4,7 @@ const bot = new Discord.Client();
 const prefix = '$'
 const kolory = ["#5782ff", "#ff00ff", "#ff3300", "#ff9900", "#00ffff", "#990099"];
 
-const token = `bQJT7l91JkIWlNCAtDlw27ywwjr0PbPc`;
+const token = `NXAc47WwE3Zyc0_JCc1KTsOZdHwFsL7B`;
 
 function sleep(ms) {
     return new Promise(resolve => setTimeout(resolve, ms));
